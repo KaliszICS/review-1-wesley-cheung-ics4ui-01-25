@@ -32,9 +32,7 @@ public class Review1 {
 		String word2;
 		word1 = "Hello";
 		word2 = "World";
-		System.out.print(word1);
-		System.out.print(" ");
-		System.out.print(word2);
+		System.out.print(word1+" "+word2);
 	}
 
 }
